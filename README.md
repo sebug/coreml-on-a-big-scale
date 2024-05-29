@@ -6,3 +6,15 @@ Felix Krause
 
 You can fine-tune on device (example: Photos app for faces)
 
+Classifiers:
+ - Decision tree
+ - Logistic Regression
+ - Random Forest
+
+Using sklearn
+
+-> convert to coreml_model
+
+Apple not very up to date with the library.
+
+Call Model.prediction
