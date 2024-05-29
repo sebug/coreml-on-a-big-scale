@@ -24,3 +24,5 @@ Apple allows to update ML models over the air (no need to wait for review)
 MLModel.compileModel
 
 MLFeatureProvider
+
+https://github.com/KrauseFx/CoreMLDemo
