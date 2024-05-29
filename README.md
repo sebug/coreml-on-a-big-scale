@@ -18,3 +18,9 @@ Using sklearn
 Apple not very up to date with the library.
 
 Call Model.prediction
+
+Apple allows to update ML models over the air (no need to wait for review)
+
+MLModel.compileModel
+
+MLFeatureProvider
